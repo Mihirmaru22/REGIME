@@ -1,0 +1,11 @@
+window:
+  rolling: 100
+
+thresholds:
+  cpu_mean_dev: 15
+  mem_mean_dev: 8
+  cpu_var_dev: 120
+  mem_var_dev: 20
+
+persistence:
+  min_duration: 5
